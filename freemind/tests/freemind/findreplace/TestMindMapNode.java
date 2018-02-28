@@ -483,7 +483,7 @@ final class TestMindMapNode implements MindMapNode {
 
 	/*
 	 * (non-Javadoc)
-	 * 
+	 *
 	 * @see freemind.modes.MindMapNode#removeAllHooks()
 	 */
 	public void removeAllHooks() {
@@ -502,5 +502,11 @@ final class TestMindMapNode implements MindMapNode {
 	public boolean hasVisibleChilds() {
 		return false;
 	}
+
+    @Override
+    public XMLElement save(Writer writer, MindMapLinkRegistry registry, boolean saveHidden, boolean saveChildren, int managed_attr) throws IOException {
+        // TODO Auto-generated method stub
+        return null;
+    }
 
 }
