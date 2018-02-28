@@ -54,7 +54,7 @@ Git in Chinese and became contributors for Git. So FreeMind-MMX
 migrated again, and my customizations are managed using Topgit finally.
 That's why you should download FreeMind-MMX here:
 
-* [FreeMind-MMX on GitHub](https://github.com/jiangxin/freemind-mmx>)
+* [FreeMind-MMX on GitHub](https://github.com/jiangxin/freemind-mmx)
 
 There are many branches in this repo:
 
